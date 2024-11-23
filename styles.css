@@ -1,0 +1,114 @@
+/* General Styles */
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 1rem;
+  }
+  
+  .custom-select {
+    padding: 0.5rem 1rem;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    font-size: 0.9rem;
+  }
+  
+  /* Header */
+  .nav-link {
+    color: #4a5568;
+    font-weight: 500;
+    text-decoration: none;
+  }
+  .nav-link:hover {
+    color: #38a169;
+  }
+  
+  .login-button {
+    background-color: #38a169;
+    color: white;
+    padding: 0.5rem 1rem;
+    border-radius: 4px;
+    transition: background-color 0.3s;
+  }
+  .login-button:hover {
+    background-color: #2f855a;
+  }
+  
+  /* Hero Section */
+  .hero-section {
+    background-color: #f7fafc;
+    padding: 4rem 1rem;
+  }
+  .hero-heading {
+    font-size: 2.5rem;
+    font-weight: 700;
+    color: #2d3748;
+  }
+  .hero-description {
+    color: #4a5568;
+    margin: 1rem 0 2rem;
+  }
+  .hero-button {
+    background-color: #38a169;
+    color: white;
+    padding: 0.75rem 2rem;
+    border-radius: 4px;
+    transition: background-color 0.3s;
+  }
+  .hero-button:hover {
+    background-color: #2f855a;
+  }
+  
+  /* Search Bar */
+  .search-bar {
+    background-color: white;
+    padding: 1rem 0;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  .search-select,
+  .search-input {
+    padding: 0.5rem 1rem;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    font-size: 0.9rem;
+  }
+  .search-button {
+    background-color: #38a169;
+    color: white;
+    padding: 0.5rem 1rem;
+    border-radius: 4px;
+  }
+  .search-button:hover {
+    background-color: #2f855a;
+  }
+  
+  /* Icon Section */
+  .icon-box {
+    text-align: center;
+  }
+  .icon-image {
+    height: 3rem;
+  }
+  .icon-text {
+    font-size: 0.9rem;
+    font-weight: 500;
+    color: #4a5568;
+  }
+  
+  /* Features Section */
+  .feature-box {
+    text-align: center;
+  }
+  .feature-image {
+    height: 4rem;
+  }
+  .feature-title {
+    font-size: 1rem;
+    font-weight: 700;
+    margin-top: 1rem;
+    color: #2d3748;
+  }
+  .feature-description {
+    color: #4a5568;
+    margin-top: 0.5rem;
+  }
+  

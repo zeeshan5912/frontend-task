@@ -1,0 +1,7 @@
+/* In your styles.css */
+@layer base {
+    html, body {
+      font-family: 'Poppins', sans-serif;
+    }
+  }
+  
